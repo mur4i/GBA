@@ -106,6 +106,7 @@ var games = {
     "m3":"Mother 3",
     "nbaj":"NBA Jam 2002",
     "nesgh1":"NES Greatest Hits 1",
+    "nemo":"Finding Nemo",
     "nfsu":"Need For Speed - Underground",
     "nfsu2":"Need For Speed - Underground 2",
     "onepiece":"One Piece",
